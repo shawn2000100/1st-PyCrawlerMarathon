@@ -2,3 +2,8 @@
 *.xml
 *.zip
 *.rar
+*.jpeg
+*.jpg
+downloads/*
+example/*
+Data/*
