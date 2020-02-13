@@ -4,6 +4,7 @@
 *.rar
 *.jpeg
 *.jpg
+*.csv
 downloads/*
 example/*
 Data/*
